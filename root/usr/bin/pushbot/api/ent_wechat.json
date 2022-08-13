@@ -1,8 +1,8 @@
 {
     "_api": "这是企业微信 markdown 模板信息 api 文件",
     "_api": "【企业微信】",
-    
-    "url": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=${we_webhook}",
+    	
+    "url": "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${corpid}&corpsecret=${corpsecret}",
     "data": "@${tempjsonpath}",
     "content_type": "Content-Type: application/json",
     "str_title_start": "#### ",
