@@ -1,3 +1,6 @@
+#我就编译了一下
+
+
 # 改名公告
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot
 
